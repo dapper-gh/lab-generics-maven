@@ -53,6 +53,7 @@ public class SimpleDynamicArray<T> implements DynamicArray<T> {
       while (newsize <= i) {
         newsize *= 2;
       } // while
+      // System.err.println("Size expanded: " + newsize);
       this.values = Arrays.copyOf(this.values, newsize);
     } // if the array is no big enough
     // And set the values

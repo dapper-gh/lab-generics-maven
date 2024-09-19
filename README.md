@@ -12,8 +12,9 @@ You can run experiments on predicates and searching with the class
 Authors:
 
 * Samuel A. Rebelsky (original code)
-* Your Name Here (updates)
-* Your Name Here (updates)
+* David William Stroud (lab)
+* Sarah Deschamps (lab)
+* Jana Vadillo (lab)
 
 The code may be found at <https://github.com/USERNAME/lab-generics-maven>.
 
